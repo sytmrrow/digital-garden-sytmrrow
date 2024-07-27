@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/数学建模/第2讲 Topsis优劣解距离法/","dgPassFrontmatter":true,"created":"2024-07-27T11:54:52.100+08:00","updated":"2024-07-27T13:34:57.341+08:00"}
+{"dg-publish":true,"permalink":"/数学建模/第2讲 Topsis优劣解距离法/","dgPassFrontmatter":true,"created":"2024-07-27T11:54:52.100+08:00","updated":"2024-07-27T13:35:07.203+08:00"}
 ---
 
 # 一、概念
